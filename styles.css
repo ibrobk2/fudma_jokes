@@ -43,3 +43,10 @@ button:hover{
 p{
     text-align: left;
 }
+
+footer > p{
+    margin-top: 30px;
+    color: wheat;
+    font-size: 22px;
+    font-weight: 700;
+}
